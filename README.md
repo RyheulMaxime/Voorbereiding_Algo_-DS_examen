@@ -7,12 +7,11 @@ https://github.com/UGent-AlgoData-BusinessEngineering/Code_lectures_2526
 
 ## class builed in functions:
 
-<p>Object Lifecycle & Representation:
-__init__(self) – Initialize instance.
-__new__(cls) – Create instance (before __init__).
-__str__(self) – User-friendly string (for print()).
-__repr__(self) – Developer representation.
-</p>
+<p>Object Lifecycle & Representation:</p>
+<p>__init__(self) – Initialize instance.</p>
+<p>__new__(cls) – Create instance (before __init__).</p>
+<p>__str__(self) – User-friendly string (for print()).</p>
+<p>__repr__(self) – Developer representation.</p>
 
 <p>Attribute Handling:
 __getattr__(self, name) – Called only if attribute not found.
