@@ -1,0 +1,6 @@
+task_name,duration,priority
+Assemble Parts,30,2
+Inspect Quality,15,1
+Paint Product,25,3
+Package Product,10,2
+Ship Product,20,3
