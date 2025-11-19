@@ -1,12 +1,13 @@
-## Voorbereiding_Algo_-DS_examen
+# Voorbereiding_Algo_-DS_examen
 
-## links
+## links:
 Link repo lessen:
 https://github.com/UGent-AlgoData-BusinessEngineering/Code_lectures_2526
 
 
-## class builed in functions:
+## Extra info :
 
+<h1>Basis functione voor classes</h1>
 <h3>Object Lifecycle & Representation:</h3>
 <p>__init__(self) – Initialize instance.</p>
 <p>__new__(cls) – Create instance (before __init__).</p>
